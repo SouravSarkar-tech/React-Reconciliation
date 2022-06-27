@@ -1,0 +1,40 @@
+.main {
+    margin-top: 220px;
+    padding: 70px 30px;
+    background: rgb(214, 247, 170);
+    margin-left: 350px;
+    margin-right: 350px;
+    border-bottom: 8px solid #2ccafa;
+    border-right: 5px solid #2ccafa;
+    border-radius: 20px;
+}
+
+h2 {
+    padding: 10px;
+    border: 2px solid #000;
+    background: #e396f7;
+    font-size: 20px;
+    margin: 0 100px;
+}
+
+.main-input {
+    margin-top: 20px;
+}
+
+span {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+input {
+   
+    padding: 10px 30px;
+    border-bottom: 8px solid #2ccafa;
+    border-right: 5px solid #2ccafa;
+
+}
